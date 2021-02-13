@@ -1,0 +1,10 @@
+﻿生成启动时间为 2021/2/8 0:54:10。
+     1>项目“E:\C语言 范例\C程序\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\VS2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C语言 范例\C程序\贪吃蛇\Debug\贪吃蛇.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\C语言 范例\C程序\贪吃蛇\Debug\贪吃蛇.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C语言 范例\C程序\贪吃蛇\Debug\贪吃蛇.lib" /MACHINE:X86 "Debug\源.obj"
+         贪吃蛇.vcxproj -> E:\C语言 范例\C程序\贪吃蛇\Debug\贪吃蛇.exe
+     1>已完成生成项目“E:\C语言 范例\C程序\贪吃蛇\贪吃蛇\贪吃蛇.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.35
