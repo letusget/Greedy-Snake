@@ -4,4 +4,8 @@
 具体实现思路在博客：https://blog.csdn.net/qq_45966201/article/details/113753726
 
 
+
+
 涉及的库函数的安装等在博客中都有详细解释：graphic.h的安装：https://blog.csdn.net/qq_45966201/article/details/113755345
+
+
